@@ -14,6 +14,12 @@ h1 {
     font-size: 18px;
     text-align: center;
 }
+.contactLink {
+    text-decoration: none;
+}
+.aboutLink {
+    text-decoration: none;
+}
 .contactMe {
     font-family: aboreto;
     font-size: 14px;
@@ -39,3 +45,27 @@ h1 {
 body {
     background-image:linear-gradient(to bottom right,#ffd7e2,#ffe1ec,#ffd7e2);
 }
+h2 {
+    font-family: aboreto;
+    font-size: 20px;
+    text-align: center;
+    color: #2b0018;
+} h3 {
+    font-family: aboreto;
+    font-size: 20px;
+    text-align: center;
+    color: #2b0018;
+} .homeLink { font-family: aboreto;
+    font-size: 10px;
+    text-align: center;
+    color: #2b0018;} .email {
+            font-family: aboreto;
+            font-size: 20px;
+            text-align: center;
+            color: #2b0018;
+        } .GitHub {
+                font-family: aboreto;
+                font-size: 20px;
+                text-align: center;
+                color: #2b0018;
+            }

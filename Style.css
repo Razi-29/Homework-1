@@ -103,3 +103,7 @@ font-family: aboreto;
         border-radius: 14px;
         padding: 5px;
 }
+.aboutmeContent {
+    display: flex;
+    flex-direction:column;
+}

@@ -13,6 +13,7 @@ h1 {
     font-family: aboreto;
     font-size: 18px;
     text-align: center;
+    margin-block-start: 30px;
 }
 .contactLink {
     text-decoration: none;
@@ -42,7 +43,7 @@ h1 {
 .content {
     display: flex;
     justify-content: center; 
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 body {
     background-image:linear-gradient(to bottom right,#ffd7e2,#ffe1ec,#ffd7e2);

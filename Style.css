@@ -40,7 +40,9 @@ h1 {
     box-shadow: 1px #2b0018;
 }
 .content {
-
+    display: flex;
+    justify-content: center, space-evenly;
+    flex-direction: ;
 }
 body {
     background-image:linear-gradient(to bottom right,#ffd7e2,#ffe1ec,#ffd7e2);

@@ -1,6 +1,6 @@
 h1 {
     font-family: aboreto;
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
     color:#2b0018;
     margin-block-start:14px;
@@ -23,11 +23,12 @@ h1 {
 .aboutLink {
     text-decoration: none;
 }
-.homeLink {
+.home {
     font-size: 20px;
     font-family:aboreto;
     text-align: center;
     text-decoration: none;
+    color: #2b0018;
 }
 .contactMe {
     font-family: aboreto;
@@ -50,8 +51,7 @@ h1 {
 }
 .content {
     display: flex;
-    justify-content: center; 
-    justify-content: space-evenly;
+    flex-direction: column;
 }
 body {
     background-image:linear-gradient(to bottom right,#ffd7e2,#ffe1ec,#ffd7e2);
@@ -66,10 +66,8 @@ h2 {
     font-size: 30px;
     text-align: center;
     color: #2b0018;
-} .home { font-family: aboreto;
-    font-size: 10px;
-    text-align: center;
-    color: #2b0018;} 
+} 
+
 .email {
     font-family: aboreto;
     font-size: 20px;

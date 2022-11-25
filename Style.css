@@ -3,6 +3,7 @@ h1 {
     font-size: 30px;
     text-align: center;
     color:#2b0018;
+    margin-block-start:14px;
 }
 .myName {
     font-family: aboreto;
@@ -21,6 +22,11 @@ h1 {
 }
 .aboutLink {
     text-decoration: none;
+}
+.homeLink {
+    font-size: 20px;
+    font-family:aboreto;
+    text-align: center;
 }
 .contactMe {
     font-family: aboreto;
@@ -68,9 +74,21 @@ h2 {
     font-size: 20px;
     text-align: center;
     color: #2b0018;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
 } .GitHub {
     font-family: aboreto;
     font-size: 20px;
     text-align: center;
      color: #2b0018;
-            }
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+     }
+.background {
+    font-family: aboreto;
+    font-size: 20px;
+}
+.coding {
+font-family: aboreto;
+    font-size: 20px;
+}

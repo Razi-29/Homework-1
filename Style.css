@@ -40,7 +40,7 @@ h1 {
     box-shadow: 1px #2b0018;
 }
 .content {
-    text-align: center;
+
 }
 body {
     background-image:linear-gradient(to bottom right,#ffd7e2,#ffe1ec,#ffd7e2);
@@ -58,14 +58,15 @@ h2 {
 } .homeLink { font-family: aboreto;
     font-size: 10px;
     text-align: center;
-    color: #2b0018;} .email {
-            font-family: aboreto;
-            font-size: 20px;
-            text-align: center;
-            color: #2b0018;
-        } .GitHub {
-                font-family: aboreto;
-                font-size: 20px;
-                text-align: center;
-                color: #2b0018;
+    color: #2b0018;} 
+.email {
+    font-family: aboreto;
+    font-size: 20px;
+    text-align: center;
+    color: #2b0018;
+} .GitHub {
+    font-family: aboreto;
+    font-size: 20px;
+    text-align: center;
+     color: #2b0018;
             }

@@ -29,6 +29,8 @@ h1 {
     text-align: center;
     text-decoration: none;
     color: #2b0018;
+    display: flex;
+    justify-content: center;
 }
 .contactMe {
     font-family: aboreto;
@@ -51,7 +53,7 @@ h1 {
 }
 .content {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 body {
     background-image:linear-gradient(to bottom right,#ffd7e2,#ffe1ec,#ffd7e2);

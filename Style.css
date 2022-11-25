@@ -27,6 +27,7 @@ h1 {
     font-size: 20px;
     font-family:aboreto;
     text-align: center;
+    text-decoration: none;
 }
 .contactMe {
     font-family: aboreto;
@@ -87,6 +88,9 @@ h2 {
 .background {
     font-family: aboreto;
     font-size: 20px;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+    background-color: cornflowerblue;
 }
 .coding {
 font-family: aboreto;

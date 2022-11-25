@@ -42,7 +42,7 @@ h1 {
 .content {
     display: flex;
     justify-content: center; 
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 body {
     background-image:linear-gradient(to bottom right,#ffd7e2,#ffe1ec,#ffd7e2);

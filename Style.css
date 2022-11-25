@@ -41,8 +41,8 @@ h1 {
 }
 .content {
     display: flex;
-    justify-content: center, space-evenly;
-    flex-direction: ;
+    justify-content: center; 
+    justify-content: space-evenly;
 }
 body {
     background-image:linear-gradient(to bottom right,#ffd7e2,#ffe1ec,#ffd7e2);

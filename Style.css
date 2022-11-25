@@ -53,7 +53,8 @@ h1 {
 }
 .content {
     display: flex;
-    flex-direction: row;
+    justify-content: center; 
+    justify-content: space-evenly;
 }
 body {
     background-image:linear-gradient(to bottom right,#ffd7e2,#ffe1ec,#ffd7e2);
@@ -104,6 +105,7 @@ font-family: aboreto;
         padding: 5px;
 }
 .aboutmeContent {
-    display: flex;
-    flex-direction:column;
+        display: flex;
+        justify-content: center;
+        justify-content: space-evenly;
 }

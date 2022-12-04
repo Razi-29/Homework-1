@@ -104,3 +104,7 @@ font-family: aboreto;
         border-radius: 14px;
         padding: 5px;
 }
+.container-fluid {
+    font-family: aboreto;
+        color: #2b0018;
+}

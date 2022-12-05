@@ -3,7 +3,9 @@ h1 {
     font-size: 40px;
     text-align: center;
     color:#2b0018;
-    margin-block-start:30px;
+    padding-block-start:20px;
+    padding-block-end: 14px;
+
 }
 .myName {
     font-family: aboreto;
@@ -94,6 +96,7 @@ h2 {
     background-color: #ffb7c5;
     border-radius: 14px;
     padding: 5px; 
+    text-align: center;
 }
 .coding {
 font-family: aboreto;

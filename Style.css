@@ -42,6 +42,7 @@ h1 {
     border-radius: 14px;
     background-color:#ffcdd8;
     border:3px solid #ffc3ce;
+    box-shadow: 1px #2b0018;
 }
 .aboutMe {
     font-family: aboreto;
@@ -112,4 +113,5 @@ font-family: aboreto;
 }
 .card-img-top {
     width: 300px;
+    border-radius: 15px;
 }

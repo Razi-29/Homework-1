@@ -42,7 +42,7 @@ h1 {
     border-radius: 14px;
     background-color:#ffcdd8;
     border:3px solid #ffc3ce;
-    box-shadow: 1px #2b0018;
+    box-shadow: 0 5px 10px #2b0018;
 }
 .aboutMe {
     font-family: aboreto;
@@ -53,6 +53,8 @@ h1 {
     border-radius: 14px;
     border:3px solid #ffc3ce;
     box-shadow: 1px #2b0018;
+    box-shadow: 0 5px 10px #2b0018;
+    }
 }
 .content {
     display: flex;

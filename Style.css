@@ -112,6 +112,6 @@ font-family: aboreto;
         color: #2b0018;
 }
 .cardImage {
-    width: 300px;
+    width: 100%;
     border-radius: 15px;
 }

@@ -54,6 +54,7 @@ h1 {
     border:3px solid #ffc3ce;
     box-shadow: 1px #2b0018;
     text-decoration: none;
+    width: 100%;
  }
 .content {
     display: flex;

@@ -55,6 +55,17 @@ h1 {
     box-shadow: 1px #2b0018;
     text-decoration: none;
  }
+ .launchButton {
+    font-family: aboreto;
+        font-size: 20px;
+        text-align: center;
+        background-color: #ffcdd8;
+        padding: 10px;
+        border-radius: 14px;
+        border: 3px solid #ffc3ce;
+        box-shadow: 1px #2b0018;
+        text-decoration: none;
+ }
 .content {
     display: flex;
     justify-content: center; 
@@ -133,4 +144,7 @@ p {
         border: 3px solid #ffc3ce;
         box-shadow: 1px #2b0018;
         text-decoration: none;
+}
+@media {
+
 }

@@ -120,14 +120,8 @@ font-family: aboreto;
         border-radius: 14px;
         padding: 5px;
 }
-.container {
-    font-family: aboreto;
-    color: #2b0018;
-    display: flex;
-    justify-content: space-evenly;
-    padding-block-end: 30px;
 
-}
+
 p {
     font-family: aboreto;
         font-size: 20px;

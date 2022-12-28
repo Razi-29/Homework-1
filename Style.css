@@ -89,6 +89,12 @@ h3 {
     color: #2b0018;
 } 
 
+a {
+    text-decoration: none;
+     color: #2b0018;
+}
+
+
 .email {
     font-family: aboreto;
     font-size: 20px;
@@ -96,6 +102,7 @@ h3 {
     color: #2b0018;
     margin-block-start: 10px;
     margin-block-end: 10px;
+    text-decoration: none;
 } .GitHub {
     font-family: aboreto;
     font-size: 20px;
@@ -103,6 +110,16 @@ h3 {
      color: #2b0018;
     margin-block-start: 10px;
     margin-block-end: 10px;
+    text-decoration: none;
+ }
+ .Linkedin {
+font-family: aboreto;
+    font-size: 20px;
+    text-align: center;
+    color: #2b0018;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+    text-decoration: none;
  }
 .background {
     font-family: aboreto;

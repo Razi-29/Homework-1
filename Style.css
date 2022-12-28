@@ -142,6 +142,9 @@ p {
         margin:30px;
 }
 
+footer {
+    margin: 20px;
+}
 .socialLinks {
     display: flex;
     justify-content: center;

@@ -148,11 +148,7 @@ footer {
 .socialLinks {
     display: flex;
     justify-content: center;
-    color:#ffc3ce;
+    justify-content: space-evenly;
 }
 
-.col-md-6- {
-    background-image: linear-gradient(to bottom right, #ffcdd8, #ffcdd8, #ffcdd8);
-    border-radius: 30px;
-    padding: 15px;
- }
+

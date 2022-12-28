@@ -74,6 +74,7 @@ h1 {
     padding-block-end: 30px ;
 }
 body {
+background-image: linear-gradient(to bottom right, #fff2f6, #ffd7e2, #fff2f6);
 }
 h2 {
     font-family: aboreto;
@@ -102,7 +103,7 @@ h3 {
      color: #2b0018;
     margin-block-start: 10px;
     margin-block-end: 10px;
-     }
+ }
 .background {
     font-family: aboreto;
     font-size: 20px;
@@ -146,3 +147,9 @@ p {
     justify-content: center;
     color:#ffc3ce;
 }
+
+.col-md-6 {
+    background-image: linear-gradient(to bottom right, #ffcdd8, #ffcdd8, #ffcdd8);
+    border-radius: 30px;
+    padding: 15px;
+ }

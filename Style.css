@@ -1,3 +1,4 @@
+
 h1 {
     font-family: aboreto;
     font-size: 40px;
@@ -141,6 +142,8 @@ p {
         margin:30px;
 }
 
-@media {
-
+.socialLinks {
+    display: flex;
+        justify-content: center;
+        justify-content: space-evenly;
 }

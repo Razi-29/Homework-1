@@ -93,6 +93,9 @@ h3 {
     text-decoration: none;
     color: #2b0018;
 }
+.hyperlinks:hover {
+    color:#ffb7c5;
+}
 
 
 .email {

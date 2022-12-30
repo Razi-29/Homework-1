@@ -72,6 +72,9 @@ h1 {
     color: #ffb7c5;
 }
 
+.openSourced {
+    text-align:center;
+}
 .content {
     display: flex;
     justify-content: center; 

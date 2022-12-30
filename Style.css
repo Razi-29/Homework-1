@@ -68,6 +68,10 @@ h1 {
         text-decoration: none;
         color: #2b0018;
  }
+ .launchButton:hover {
+    color: #ffb7c5;
+}
+
 .content {
     display: flex;
     justify-content: center; 

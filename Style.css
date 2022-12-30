@@ -66,6 +66,7 @@ h1 {
         border: 3px solid #ffc3ce;
         box-shadow: 1px #2b0018;
         text-decoration: none;
+        color: #2b0018;
  }
 .content {
     display: flex;
